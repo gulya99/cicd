@@ -39,3 +39,4 @@ jobs:
           title: "Development build"
           files: |
             simplecalculator.tar.gz
+
